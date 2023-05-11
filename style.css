@@ -1,0 +1,26 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+html {
+	background: black;
+	color: white;
+}
+.text {
+	opacity: 100%;
+	margin: 3rem;
+	margin-top: 1.5rem;
+	padding-top: 2.5rem;
+	padding-bottom: 2.5rem;
+	background: wheat;
+	color: black;
+}
+.paragraph {
+	background: blue;
+	color: wheat;
+	border-radius: 0% 10%;
+}
+.message {
+	background: brown;
+	color: red;
+}
